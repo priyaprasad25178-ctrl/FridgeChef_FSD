@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/spa",
+  "installCommand": "npm install",
+  "functions": {
+    "api/serverless-direct.js": {
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/serverless-direct"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
