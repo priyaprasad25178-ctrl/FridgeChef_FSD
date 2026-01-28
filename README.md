@@ -296,13 +296,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Priya Prasad** - [@priyaprasad25178-ctrl](https://github.com/priyaprasad25178)
 
-Project Link: [https://github.com/Chirag8405/FridgeChef_FSD](https://github.com/Chirag8405/FridgeChef_FSD)
+Project Link: [https://github.com/priyaprasad25178/FridgeChef_FSD](https://github.com/Priyaprasad25178/FridgeChef_FSD)
 
 ---
 
 <div align="center">
 
-Made by [Chirag](https://github.com/priyaprasad25178)
+Made by [Priyaprasad](https://github.com/priyaprasad25178)
 
 ⭐ Star this repo if you find it helpful!
 
