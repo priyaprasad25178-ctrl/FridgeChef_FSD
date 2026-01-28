@@ -294,7 +294,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Chirag** - [@Chirag8405](https://github.com/Chirag8405)
+**Priya Prasad** - [@priyaprasad25178-ctrl](https://github.com/priyaprasad25178)
 
 Project Link: [https://github.com/Chirag8405/FridgeChef_FSD](https://github.com/Chirag8405/FridgeChef_FSD)
 
@@ -302,7 +302,7 @@ Project Link: [https://github.com/Chirag8405/FridgeChef_FSD](https://github.com/
 
 <div align="center">
 
-Made by [Chirag](https://github.com/Chirag8405)
+Made by [Chirag](https://github.com/priyaprasad25178)
 
 ⭐ Star this repo if you find it helpful!
 
